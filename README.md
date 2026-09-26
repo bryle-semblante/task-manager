@@ -4,7 +4,7 @@
 
 Project Code: WST21-PM-2026-SF
 
-Student Name: Lindy Mae U. Sorela
+Student Name: Bryle G. Semblante
 
 Course \& Year: BSIT 2nd Year
 
@@ -40,7 +40,7 @@ Database Used: MySQL
 
 4\. Run `php artisan key:generate`
 
-5\. Create a database named `task\_manager` in MySQL
+5\. Create a database named `task\\\_manager` in MySQL
 
 6\. Run `php artisan migrate`
 
@@ -63,6 +63,4 @@ Database Used: MySQL
 \* Blade
 
 \* Custom CSS (no front-end framework)
-
-
 
